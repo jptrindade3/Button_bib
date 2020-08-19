@@ -1,0 +1,3 @@
+button	KEYWORD1
+but_def	KEYWORD2
+but_led	KEYWORD2
